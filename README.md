@@ -6,7 +6,7 @@ I code discord bots, I know Node.JS, and have started learning HTML and CSS.
 
 ## My projects
 
-FishHook:https://github.com/Gigabars/FishHook
+[FishHook](https://github.com/Gigabars/FishHook)
 
 *FishHook is a bot that can link 2 discord text channels together. Even on different servers.*
 
