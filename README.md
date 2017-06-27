@@ -1,7 +1,7 @@
 
 ## About me.
 
-I code discord bots, and have started learning HTML and CSS.
+I code discord bots, I know Node.JS, and have started learning HTML and CSS.
 
 
 ## My projects
