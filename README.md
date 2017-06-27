@@ -17,6 +17,6 @@ If you need to contact me, here are some of my links.
 
 Discord: Gigabars#7874
 
-Twitter: https://twitter.com/gigabars
+[Twitter](https://twitter.com/gigabars)
 
-Github: https://github.com/Gigabars
+[Github](https://github.com/Gigabars)
